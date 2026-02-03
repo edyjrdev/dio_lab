@@ -1,0 +1,16 @@
+[project]
+name = "bcmp-python-fundamentos"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Edy Epumuceno Rodrigues Junior",email = "edy.rodrigues@serpro.gov.br"}
+]
+readme = "README.md"
+requires-python = "3.13.11"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
