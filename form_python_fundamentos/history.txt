@@ -1,0 +1,308 @@
+    1  help
+    2  exit
+    3  cat ~/.ssh/id_ed25519.pub | clip
+    4  exit
+    5  ls
+    6  cd..
+    7  cd c:\git
+    8  ls
+    9  cd 11798-Lib/
+   10  ls
+   11  help
+   12  git help
+   13  add *.*
+   14  git add *.py
+   15  git push
+   16  git status
+   17  git add (.bat
+   18  git add *.bat
+   19  git add *.json
+   20  git push --set-upstream origin main
+   21  push
+   22  git status
+   23  git commit -m "Arquivos de DEV"
+   24  git status
+   25  git push
+   26  git push --set-upstream origin main
+   27  git init --initial-branch=main
+   28  git remote add origin git@git.serpro:publicadores/11798/11798-Lib.git
+   29  git add .
+   30  git commit -m "Initial commit"
+   31  git status
+   32  git push -u 11798-Lib master
+   33  git push -u "11798 Lib" master
+   34  ls
+   35  git push
+   36  git help config
+   37  exit
+   38  add *.py
+   39  git add *.py
+   40  eixt
+   41  exit
+   42  git config --global user.name "Edy Epumuceno Rodrigues Junior"
+   43  git config --global user.email edy.rodrigues@serpro.gov.br
+   44  git config user.email
+   45  git config user.name
+   46  ssh-keygen -t rsa -b 4096 -C "edy.rodrigues@serpro.gov.br"
+   47  cd c:\git
+   48  cd python
+   49  exit
+   50  cd..
+   51  ls
+   52  cd..
+   53  cd
+   54  cd C:\git\headfirstpython_2d
+   55  ls
+   56  help
+   57  cd c:
+   58  cd git
+   59  cd headfirstpython_2d/
+   60  git
+   61  git clone https://github.com/headfirstpython/second
+   62  exit
+   63  dir
+   64  cd c:\git
+   65  cd descomplica/
+   66  cd Statistics-for-Data-Science/
+   67  git clone https://github.com/FaculdadeDescomplica/Statistics-for-Data-Science.git
+   68  cd..
+   69  cd c:\git\descomplica
+   70  ls
+   71  cd ..
+   72  cd c:\git
+   73  cd descomplica/
+   74  cd mba-em-big-data-e-inteligencia-competitiva/
+   75  git clone https://github.com/FaculdadeDescomplica/Statistics-for-Data-Science.git
+   76  git clone https://github.com/FaculdadeDescomplica/Data-Analytics-e-Big-Data-para-Tomada-de-Decis-o.git
+   77  exit
+   78  cd C:\git\descomplica
+   79  ls
+   80  cd c:
+   81  cd git
+   82  cd descomplica/
+   83  git clone https://github.com/FaculdadeDescomplica/Statistics-for-Data-Science.git
+   84  git clone https://github.com/FaculdadeDescomplica/Data-Analytics-e-Big-Data-para-Tomada-de-Decis-o.git
+   85  git clone https://github.com/FaculdadeDescomplica/Python
+   86  git clone https://github.com/FaculdadeDescomplica/banco_de_dados
+   87  git clone https://github.com/FaculdadeDescomplica/Data-Integration-Ingestion-e-Quality
+   88  git clone https://github.com/FaculdadeDescomplica/AdvancedFront-End
+   89  git clone https://github.com/FaculdadeDescomplica/Projeto-Aplicado-Inteligencia-Artificial-aplicada-a-Marketing-e-Growth
+   90  git clone https://github.com/FaculdadeDescomplica/Pratica-Integradora-Desenvolvimento-de-Apps
+   91  git clone https://github.com/FaculdadeDescomplica/Aplicacoes-da-Ciencia-de-Dados-em-Tecnologias-Disruptivas
+   92  git clone https://github.com/FaculdadeDescomplica/Pratica-Integradora-de-Ciencias-da-Computacao
+   93  git clone https://github.com/FaculdadeDescomplica/Monitoramento
+   94  git clone https://github.com/FaculdadeDescomplica/AdvancedFrontEnd
+   95  git clone https://github.com/FaculdadeDescomplica/Data-Analytics-e-Big-Data-para-Tomada-de-Decis-o
+   96  git clone https://github.com/FaculdadeDescomplica/FluxoFinanceiroeOrcamentoEmpresarial
+   97  git clone https://github.com/FaculdadeDescomplica/Unificacao-e-Clusterizacao-de-Dados
+   98  git clone https://github.com/FaculdadeDescomplica/Criacao-de-Aplicacoes-e-Sistemas
+   99  git clone https://github.com/FaculdadeDescomplica/Big-data-analytics
+  100  git clone https://github.com/FaculdadeDescomplica/Faculdade-Descomplica-Intelligent-Communication
+  101  git clone https://github.com/FaculdadeDescomplica/Desenvolvimento-Mobile
+  102  git clone https://github.com/FaculdadeDescomplica/Pratica-Integradora-Desenvolvimento-de-Software
+  103  git clone https://github.com/FaculdadeDescomplica/DesenvolvimentoDinamico
+  104  git clone https://github.com/FaculdadeDescomplica/Pratica-Integradora-Sistema-UX
+  105  git clone https://github.com/FaculdadeDescomplica/Aplicacao-de-Ciencia-de-Dados-para-Negocios
+  106  git clone https://github.com/FaculdadeDescomplica/pratica_integradora_tecnologias_disruptivas
+  107  git clone https://github.com/FaculdadeDescomplica/Desenvolvimento-FrontEnd
+  108  git clone https://github.com/FaculdadeDescomplica/Framework
+  109  git clone https://github.com/FaculdadeDescomplica/RegressaoePredicao
+  110  git clone https://github.com/FaculdadeDescomplica/ProgramacaoII
+  111  git clone https://github.com/FaculdadeDescomplica/Intermediary-BackEnd
+  112  git clone https://github.com/FaculdadeDescomplica/Arquitetura-de-BI-e-Big-Data-com-Ciencia-de-Dados-Aplicada
+  113  git clone https://github.com/FaculdadeDescomplica/ProcessamentodeLinguagemNatural
+  114  git clone https://github.com/FaculdadeDescomplica/Pratica-Integradora-de-Ciencia-de-Dados-com-Cloud-Computing
+  115  git clone https://github.com/FaculdadeDescomplica/Machine-Learning
+  116  git clone https://github.com/FaculdadeDescomplica/DesenvolvimentoemPlataformasHibridas_Flutter
+  117  git clone https://github.com/FaculdadeDescomplica/StatisticsLibraryinPython
+  118  git clone https://github.com/FaculdadeDescomplica/PraticaIntegradoradeDesenvolvimentodeJogos
+  119  git clone https://github.com/FaculdadeDescomplica/DesenvolvimentoWebResponsivo
+  120  git clone https://github.com/FaculdadeDescomplica/LinguagemR
+  121  git clone https://github.com/FaculdadeDescomplica/ColetaeTratamentodeDados
+  122  git clone https://github.com/FaculdadeDescomplica/Hero-Cloud-Developer
+  123  git clone https://github.com/FaculdadeDescomplica/clusterizacao
+  124  git clone https://github.com/FaculdadeDescomplica/Strategies-BackEnd
+  125  git clone https://github.com/FaculdadeDescomplica/Practitioner_FrontEnd
+  126  git clone https://github.com/FaculdadeDescomplica/b2btech
+  127  git clone https://github.com/FaculdadeDescomplica/Perceptron_Adaline
+  128  git clone https://github.com/FaculdadeDescomplica/pratica_integradora_desenvolvimento_de_apps
+  129  git clone https://github.com/FaculdadeDescomplica/Deep_Learning
+  130  git clone https://github.com/FaculdadeDescomplica/network-science
+  131  git clone https://github.com/FaculdadeDescomplica/Advanced-BackEnd
+  132  git clone https://github.com/FaculdadeDescomplica/Statistics-for-Data-Science
+  133  git clone https://github.com/FaculdadeDescomplica/pos-advanced-front-end
+  134  git clone https://github.com/FaculdadeDescomplica/tecnologias_inovadoras_-de_desenvolvimento_de_sistemas
+  135  cd c/git
+  136  pwd
+  137  cd ..
+  138  cd..
+  139  ls
+  140  cd c/git
+  141  git -version
+  142  git --version
+  143  cd c:/lab/github/site
+  144  ls
+  145  git init
+  146  git remote add origin https://github.com/edybrother/edy.github.io.git
+  147  git status
+  148  git add . origin https://github.com/edybrother/edy.github.io.git
+  149  git add .
+  150  git status
+  151  git push
+  152  git remote add origin https://github.com/edybrother/edy.github.io.git
+  153  git status
+  154  git commit -m "Arquivos iniciais."
+  155  git push origin master
+  156  exit
+  157  cd C:\lab\github\site
+  158  cd c:\lab
+  159  cd github
+  160  cd site
+  161  git init
+  162  git remote add origin https://github.com/edybrother/edybrother.github.io.git
+  163  git add .
+  164  git status
+  165  git commit -m 'Arquivos iniciais.'
+  166  git push -u origin master
+  167  git add .
+  168  git commit -m 'Contato'
+  169  git push -u origin master
+  170  git status
+  171  exit
+  172  git pull
+  173  cd ..
+  174  dir
+  175  cd extrator-simba
+  176  git status
+  177  tree
+  178  git status
+  179  exit
+  180  ls
+  181  cd ..
+  182  cd~
+  183  pwd
+  184  cd ..
+  185  cd..
+  186  ls
+  187  cd edyjrdev/
+  188  git clone git@github.com:edyjrdev/dio-git-e-github.git
+  189  git config user.name
+  190  git config user.mail
+  191  git config user.email
+  192  cd /c/Users/S836491661/.ssh/
+  193  touch config
+  194  ls
+  195  ls
+  196  cat config 
+  197  cd /c/edyjrdev/
+  198  git clone git@github.com-pessoal:edyjrdev/dio-git-e-github.git
+  199  git clone git@github.com-pessoal:edyjrdev/dio-git-e-github.git
+  200  git config user.name
+  201  git config user.email
+  202  git confi init.defaultBranch
+  203  git config init.defaultBranch
+  204  git config init.defaultBranch main
+  205  git config --global init.defaultBranch main
+  206  git config init.defaultBranch main
+  207  git config init.defaultBranch
+  208  git config 
+  209  git config list
+  210  cd c/edyjrdev/
+  211  git clone https://github.com/edyjrdev/dio-git-e-github.git
+  212  ls
+  213  cd dio-git-e-github/
+  214  ls
+  215  touch README.md
+  216  ls
+  217  git status
+  218  git add README.md README.md 
+  219  ls
+  220  git status
+  221  git commit -m 'add readme.me'
+  222  git push -u
+  223  git config user.name
+  224  cd..
+  225  cd..
+  226  ls
+  227  cd ..
+  228  ls
+  229  git config --global --list
+  230  ls
+  231  cd dio-git-e-github/
+  232  git config --local user.name 'Edy Epumuceno Rodrigues Junior'
+  233  git config --local user.email 'edyjrdev@gmail.com'
+  234  git config --local --list
+  235  git push -u
+  236  cd ..
+  237  ls
+  238  rm dio-git-e-github/
+  239  rm -r dio-git-e-github/
+  240  y
+  241  ls
+  242  git clone https://github.com/edyjrdev/dio-git-e-github.git
+  243  ls
+  244  cd dio-git-e-github/
+  245  echo "# dio-git-e-github" >> README.md
+  246  git init
+  247  git add README.md
+  248  git commit -m "first commit"
+  249  git branch -M main
+  250  git remote add origin https://github.com/edyjrdev/dio-git-e-github.git
+  251  git push -u origin main
+  252  git remote add origin https://github.com-pessoal/edyjrdev/dio-git-e-github.git
+  253  git remote add origin https://github.com-pessoal/edyjrdev/dio-git-e-github.git
+  254  git status
+  255  git push
+  256  git config list
+  257  git config --local --list
+  258  git config --system --list
+  259  git config --system init.defaultbranch main
+  260  ls -al ~/.ssh
+  261  Get-Service -Name ssh-agent | Set-Service -StartupType Manual
+  262  eval "$(ssh-agent -s)"
+  263  ssh-add ~/.ssh/id_ed25519
+  264  ssh-add ~/.ssh/id_ed25519_edyjrdev
+  265  cd c/edyjrdev/
+  266  git clone git@github.com:edyjrdev/dio-git-e-github.git
+  267  ls
+  268  cd dio-git-e-github/
+  269  git config user.name
+  270  git config user.email
+  271  git config --local user.email 'edyjrdev@gmail.com'
+  272  git status
+  273  touch README.md
+  274  git status
+  275  git add README.md 
+  276  git commit -m 'add readme'
+  277  git push -u
+  278  git status
+  279  cd ..
+  280  cd d
+  281  cd /d
+  282  cd edyjrdev/
+  283  git clone git@github.com:edyjrdev/study.git
+  284  git clone git@github.com:edyjrdev/descomplica_lab.git
+  285  git clone git@github.com:edyjrdev/asimov_lab.git
+  286  git clone git@github.com:edyjrdev/dio_lab.git
+  287  ls
+  288  pwd
+  289  ssh-keygen -t rsa -C "edyjrdev@gmail.com"
+  290  cat /c/Users/S836491661/.ssh/id_rsa.pub
+  291  git config --list --global
+  292  cat /c/Users/S836491661/.ssh/id_rsa.pub
+  293  ssh-keygen -t ed25519 -C "edy.rodrigues@serpro.gov.br"
+  294  cat /c/Users/S836491661/.ssh/id_ed25519.pub
+  295  cd bcmp_python_fundamentos/
+  296  poetry env activate
+  297  python
+  298  pip list
+  299  pyenv versions
+  300  poetry env use 3.13.11
+  301  python -V
+  302  poetry env activate
+  303  python -V
+  304  pyenv versions
+  305  poetry update
+  306  poetry env deactivate
+  307  poetry env info
+  308  history > history.txt
