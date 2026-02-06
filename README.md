@@ -1,10 +1,10 @@
 # 📆 Plano Dio.me 2026 
 ## Formações (Training)
 ### 📖 Git  
-[ ] formacao-github-certification
+[🤓] formacao-github-certification
 
 ### 🐍 Python  
-[ ] formacao-python-fundamentals  
+[🤓] formacao-python-fundamentals  
 [ ] formacao-python-backend-developer  
 [ ] formacao-machine-learning-specialist  
 
@@ -15,18 +15,19 @@
 ### ☁️ Nuvem  
 [ ] formacao-gcp-specialist  
 [ ] formacao-aws-cloud-practitioner-certification  
+
 ### 🤖 IA  
 [ ] formacao-fundamentos-de-inteligencia-artificial  
 [ ] formacao-iot-specialist  
 
 ---  
-## Bootcamps
+## 🧙‍♂️ Bootcamps
 ---
-## Projetos
+## 🛠️ Projetos
 ---  
 
 |Legenda|
 |---|
-|[ ] - Backlog|
-|[🤓] - In progress|
-|[✔️] - Done|
+|[ ] Backlog|
+|[🤓] In progress|
+|[✔️] Done|
